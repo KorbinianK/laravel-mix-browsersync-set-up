@@ -259,8 +259,8 @@ module.exports.plugins = (module.exports.plugins || []).concat([
 
     new BrowserSyncPlugin({
         open: 'external',
-        host: 'laravelplus.dev',
-        proxy: 'laravelplus.dev',
+        host: 'example.dev',
+        proxy: 'example.dev',
         files: ['resources/views/**/*.php', 'app/**/*.php', 'routes/**/*.php']
     })
 ]);
