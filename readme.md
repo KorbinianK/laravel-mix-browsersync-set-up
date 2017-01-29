@@ -9,6 +9,9 @@ Install npm
 
 	npm install
 	
+#### Run Watch
+	npm run watch
+	
 ####Browsersync Configuration
 `webpack.config.js` is already copied to root folder of the app. To config browsersync plugin find out the following code block and update according to your needs.
 
