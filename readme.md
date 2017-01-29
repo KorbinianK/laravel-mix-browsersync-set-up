@@ -1,0 +1,1 @@
+# Laravel 5.4 with laravel-mix & Browsersync setup
