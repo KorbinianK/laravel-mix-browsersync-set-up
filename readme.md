@@ -3,11 +3,7 @@
 #### Install
 Composer require
 
-	composer create-project gurinder/lmb FolderName
-	
-Install composer	
-
-	composer install
+	composer create-project gurinder/lmb AppName --prefer-dist
 	
 Install npm
 
