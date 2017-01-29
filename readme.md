@@ -1,7 +1,6 @@
 # Laravel 5.4 with laravel-mix & Browsersync setup
 
 #### Install
-Composer require
 
 	composer create-project gurinder/lmb AppName --prefer-dist
 	
