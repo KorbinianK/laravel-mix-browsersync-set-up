@@ -1,5 +1,8 @@
 # Laravel 5.4 with laravel-mix & Browsersync setup
 
+#### NOTE
+As of laravel-mix v0.7.4 - BrowserSync is supported. This Repo is not relevant anymore.
+
 #### Install
 
 	composer create-project gurinder/lmb AppName --prefer-dist
